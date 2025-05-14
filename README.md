@@ -28,7 +28,7 @@ Adapté aux appareils mobiles
 
 Prêt à être personnalisé selon vos couleurs, typographie ou contenu
 
-git clone https://github.com/votre-utilisateur/blog-homme-republique.git
+git clone https://github.com/votre-utilisateur/blog-homme-republique.git](https://github.com/donmo17/patrickachi.git)
 
 
 Ouvrez le fichier index.html dans votre navigateur.
