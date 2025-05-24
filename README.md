@@ -2,7 +2,7 @@
 Un template de blog épuré, rapide et respectueux des standards, conçu pour un homme de la République Ivoirienne.
 
 🛠️ Technologies utilisées
-HTML pur – Pas de JavaScript
+HTML pur – 
 
 Tailwind CSS – Pour une mise en page moderne et responsive
 
